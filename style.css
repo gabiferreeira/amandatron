@@ -1,6 +1,6 @@
 body {
     background-color: black
-    color: white;
+    color: red;
 
     font-family: "Libertinus Sans", sans-serif;
 
@@ -19,9 +19,9 @@ p {
 
 header {
     font-size: 60px;
-    border-bottom: 5px inset  #FFE4E1;
+    border-bottom: 5px inset  whitesmoke;
     padding: 30px;
-    color: rgb(243, 202, 99);
+    color: white;
     text-align: center;
 }
 
