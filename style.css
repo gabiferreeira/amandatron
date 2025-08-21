@@ -3,7 +3,7 @@ body {
     color: red;
 
      font-family: "Mozilla Headline", sans-serif;
-
+ font-family: "Mozilla Headline", sans-serif;
    margin: 0px;
 }
 
@@ -18,9 +18,9 @@ p {
 
 header {
     font-size: 60px;
-    border-bottom: 5px inset  whitesmoke;
+    border-bottom: 5px inset ;
     padding: 30px;
-    color: white;
+    color:;
     text-align: center;
 }
 
